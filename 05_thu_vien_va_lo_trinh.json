@@ -1,0 +1,1175 @@
+{
+  "roles": [
+    {
+      "id": "sales",
+      "name": "Kinh doanh",
+      "desc": "Phát triển khách hàng và bán hàng có trách nhiệm",
+      "skills": [
+        "Hiểu khách hàng",
+        "Quản lý cơ hội",
+        "Trình bày giá trị"
+      ],
+      "plan": [
+        {
+          "module": "core-culture",
+          "weeks": 4
+        },
+        {
+          "module": "core-security",
+          "weeks": 4
+        },
+        {
+          "module": "sales-01",
+          "weeks": 4
+        },
+        {
+          "module": "sales-02",
+          "weeks": 4
+        },
+        {
+          "module": "core-collaboration",
+          "weeks": 4
+        },
+        {
+          "module": "sales-03",
+          "weeks": 4
+        },
+        {
+          "module": "sales-04",
+          "weeks": 4
+        },
+        {
+          "module": "sales-05",
+          "weeks": 4
+        },
+        {
+          "module": "sales-06",
+          "weeks": 4
+        },
+        {
+          "module": "sales-07",
+          "weeks": 4
+        },
+        {
+          "module": "sales-08",
+          "weeks": 4
+        },
+        {
+          "module": "sales-09",
+          "weeks": 4
+        }
+      ]
+    },
+    {
+      "id": "service",
+      "name": "Chăm sóc khách hàng",
+      "desc": "Giải quyết yêu cầu và duy trì trải nghiệm",
+      "skills": [
+        "Lắng nghe",
+        "Giải quyết vấn đề",
+        "Chất lượng dịch vụ"
+      ],
+      "plan": [
+        {
+          "module": "core-culture",
+          "weeks": 4
+        },
+        {
+          "module": "core-security",
+          "weeks": 4
+        },
+        {
+          "module": "service-01",
+          "weeks": 4
+        },
+        {
+          "module": "service-02",
+          "weeks": 4
+        },
+        {
+          "module": "core-collaboration",
+          "weeks": 4
+        },
+        {
+          "module": "service-03",
+          "weeks": 4
+        },
+        {
+          "module": "service-04",
+          "weeks": 4
+        },
+        {
+          "module": "service-05",
+          "weeks": 4
+        },
+        {
+          "module": "service-06",
+          "weeks": 4
+        },
+        {
+          "module": "service-07",
+          "weeks": 4
+        },
+        {
+          "module": "service-08",
+          "weeks": 4
+        },
+        {
+          "module": "service-09",
+          "weeks": 4
+        }
+      ]
+    },
+    {
+      "id": "operations",
+      "name": "Vận hành",
+      "desc": "Thực hiện quy trình và cải tiến chất lượng",
+      "skills": [
+        "Chuẩn quy trình",
+        "Kiểm soát chất lượng",
+        "Cải tiến"
+      ],
+      "plan": [
+        {
+          "module": "core-culture",
+          "weeks": 4
+        },
+        {
+          "module": "core-security",
+          "weeks": 4
+        },
+        {
+          "module": "operations-01",
+          "weeks": 4
+        },
+        {
+          "module": "operations-02",
+          "weeks": 4
+        },
+        {
+          "module": "core-collaboration",
+          "weeks": 4
+        },
+        {
+          "module": "operations-03",
+          "weeks": 4
+        },
+        {
+          "module": "operations-04",
+          "weeks": 4
+        },
+        {
+          "module": "operations-05",
+          "weeks": 4
+        },
+        {
+          "module": "operations-06",
+          "weeks": 4
+        },
+        {
+          "module": "operations-07",
+          "weeks": 4
+        },
+        {
+          "module": "operations-08",
+          "weeks": 4
+        },
+        {
+          "module": "operations-09",
+          "weeks": 4
+        }
+      ]
+    },
+    {
+      "id": "hr",
+      "name": "Nhân sự",
+      "desc": "Hỗ trợ nhân viên và vận hành nhân sự",
+      "skills": [
+        "Tuyển dụng",
+        "Trải nghiệm nhân viên",
+        "Dữ liệu nhân sự"
+      ],
+      "plan": [
+        {
+          "module": "core-culture",
+          "weeks": 4
+        },
+        {
+          "module": "core-security",
+          "weeks": 4
+        },
+        {
+          "module": "hr-01",
+          "weeks": 4
+        },
+        {
+          "module": "hr-02",
+          "weeks": 4
+        },
+        {
+          "module": "core-collaboration",
+          "weeks": 4
+        },
+        {
+          "module": "hr-03",
+          "weeks": 4
+        },
+        {
+          "module": "hr-04",
+          "weeks": 4
+        },
+        {
+          "module": "hr-05",
+          "weeks": 4
+        },
+        {
+          "module": "hr-06",
+          "weeks": 4
+        },
+        {
+          "module": "hr-07",
+          "weeks": 4
+        },
+        {
+          "module": "hr-08",
+          "weeks": 4
+        },
+        {
+          "module": "hr-09",
+          "weeks": 4
+        }
+      ]
+    },
+    {
+      "id": "manager",
+      "name": "Quản lý mới",
+      "desc": "Dẫn dắt đội ngũ và phát triển con người",
+      "skills": [
+        "Giao việc",
+        "Huấn luyện",
+        "Quản trị hiệu suất"
+      ],
+      "plan": [
+        {
+          "module": "core-culture",
+          "weeks": 4
+        },
+        {
+          "module": "core-security",
+          "weeks": 4
+        },
+        {
+          "module": "manager-01",
+          "weeks": 4
+        },
+        {
+          "module": "manager-02",
+          "weeks": 4
+        },
+        {
+          "module": "core-collaboration",
+          "weeks": 4
+        },
+        {
+          "module": "manager-03",
+          "weeks": 4
+        },
+        {
+          "module": "manager-04",
+          "weeks": 4
+        },
+        {
+          "module": "manager-05",
+          "weeks": 4
+        },
+        {
+          "module": "manager-06",
+          "weeks": 4
+        },
+        {
+          "module": "manager-07",
+          "weeks": 4
+        },
+        {
+          "module": "manager-08",
+          "weeks": 4
+        },
+        {
+          "module": "manager-09",
+          "weeks": 4
+        }
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "id": "core-culture",
+      "version": 1,
+      "title": "Hội nhập và cách làm việc",
+      "skill": "Nền tảng doanh nghiệp",
+      "outcome": "Làm rõ vai trò, kỳ vọng và nguồn hỗ trợ trong doanh nghiệp.",
+      "question": "Bạn nhận nhiệm vụ chưa rõ tiêu chuẩn hoàn thành.",
+      "options": [
+        "Tự suy đoán rồi báo hoàn tất.",
+        "Xác nhận đầu ra, thời hạn và người hỗ trợ trước khi làm.",
+        "Đợi đến cuối kỳ mới hỏi lại."
+      ],
+      "answer": 1,
+      "lesson": "Làm rõ vai trò, kỳ vọng và nguồn hỗ trợ trong doanh nghiệp. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Xác nhận đầu ra, thời hạn và người hỗ trợ trước khi làm. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Bản tóm tắt vai trò và 3 đầu mối hỗ trợ của bạn.",
+      "role": "common"
+    },
+    {
+      "id": "core-security",
+      "version": 1,
+      "title": "Bảo vệ thông tin",
+      "skill": "An toàn thông tin",
+      "outcome": "Nhận diện dữ liệu nhạy cảm và dùng kênh được cho phép.",
+      "question": "Một đường link lạ yêu cầu đăng nhập tài khoản công ty.",
+      "options": [
+        "Đăng nhập ngay vì có logo công ty.",
+        "Kiểm tra nguồn và báo đầu mối phụ trách khi nghi ngờ.",
+        "Chuyển link cho mọi người tự thử."
+      ],
+      "answer": 1,
+      "lesson": "Nhận diện dữ liệu nhạy cảm và dùng kênh được cho phép. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Kiểm tra nguồn và báo đầu mối phụ trách khi nghi ngờ. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Checklist xử lý một tình huống dữ liệu giả.",
+      "role": "common"
+    },
+    {
+      "id": "core-collaboration",
+      "version": 1,
+      "title": "Hợp tác và phản hồi",
+      "skill": "Hợp tác",
+      "outcome": "Trao đổi rõ đầu vào, đầu ra và phản hồi có dẫn chứng.",
+      "question": "Công việc liên phòng ban chậm vì chưa rõ người nhận.",
+      "options": [
+        "Chuyển tiếp email cho càng nhiều người càng tốt.",
+        "Thống nhất đầu mối, tiêu chí bàn giao và mốc cập nhật.",
+        "Chờ bên khác tự xử lý."
+      ],
+      "answer": 1,
+      "lesson": "Trao đổi rõ đầu vào, đầu ra và phản hồi có dẫn chứng. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Thống nhất đầu mối, tiêu chí bàn giao và mốc cập nhật. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Bản bàn giao giả lập và một phản hồi dựa trên hành vi.",
+      "role": "common"
+    },
+    {
+      "id": "sales-01",
+      "version": 1,
+      "title": "Khám phá nhu cầu",
+      "skill": "Hiểu khách hàng",
+      "outcome": "Đặt câu hỏi về mục tiêu, bối cảnh và ràng buộc trước khi đề xuất.",
+      "question": "Khách hàng hỏi giá ngay trong lần gặp đầu.",
+      "options": [
+        "Gửi ngay gói có giá cao nhất.",
+        "Làm rõ nhu cầu và tiêu chí lựa chọn trước khi đề xuất.",
+        "Hứa giảm giá khi chưa có thẩm quyền."
+      ],
+      "answer": 1,
+      "lesson": "Đặt câu hỏi về mục tiêu, bối cảnh và ràng buộc trước khi đề xuất. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Làm rõ nhu cầu và tiêu chí lựa chọn trước khi đề xuất. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Ghi âm giả lập 3 phút khám phá nhu cầu và bản tóm tắt đã xác nhận.",
+      "role": "sales"
+    },
+    {
+      "id": "sales-02",
+      "version": 1,
+      "title": "Hiểu giải pháp",
+      "skill": "Trình bày giá trị",
+      "outcome": "Giải thích lợi ích cùng điều kiện áp dụng từ tài liệu được duyệt.",
+      "question": "Một tính năng khách hàng cần chưa có trong tài liệu.",
+      "options": [
+        "Khẳng định chắc chắn có để giữ khách.",
+        "Kiểm tra nguồn và xác nhận giới hạn trước khi trả lời.",
+        "Dùng thông tin của sản phẩm khác thay thế."
+      ],
+      "answer": 1,
+      "lesson": "Giải thích lợi ích cùng điều kiện áp dụng từ tài liệu được duyệt. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Kiểm tra nguồn và xác nhận giới hạn trước khi trả lời. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Bảng đối chiếu nhu cầu, lợi ích, giới hạn của một giải pháp giả định.",
+      "role": "sales"
+    },
+    {
+      "id": "sales-03",
+      "version": 1,
+      "title": "Quản lý cơ hội",
+      "skill": "Quản lý cơ hội",
+      "outcome": "Cập nhật giai đoạn, bước tiếp theo và người phụ trách cho mỗi cơ hội.",
+      "question": "Có nhiều cơ hội chưa có lịch hẹn tiếp theo.",
+      "options": [
+        "Đánh dấu tất cả đã thành công.",
+        "Xác định ưu tiên và ghi bước tiếp theo có thời hạn.",
+        "Chỉ lưu thông tin trong trí nhớ."
+      ],
+      "answer": 1,
+      "lesson": "Cập nhật giai đoạn, bước tiếp theo và người phụ trách cho mỗi cơ hội. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Xác định ưu tiên và ghi bước tiếp theo có thời hạn. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Danh sách 5 cơ hội giả, có giai đoạn và hành động tiếp theo.",
+      "role": "sales"
+    },
+    {
+      "id": "sales-04",
+      "version": 1,
+      "title": "Trình bày giá trị",
+      "skill": "Trình bày giá trị",
+      "outcome": "Kết nối đề xuất với vấn đề cụ thể và kiểm tra mức hiểu.",
+      "question": "Khách hàng nói vẫn chưa thấy giá trị của giải pháp.",
+      "options": [
+        "Đọc lại toàn bộ bảng tính năng.",
+        "Dùng ví dụ gắn nhu cầu và mời khách diễn giải lại.",
+        "Kết thúc ngay vì khách không hiểu."
+      ],
+      "answer": 1,
+      "lesson": "Kết nối đề xuất với vấn đề cụ thể và kiểm tra mức hiểu. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Dùng ví dụ gắn nhu cầu và mời khách diễn giải lại. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Bài trình bày 5 phút theo một nhu cầu đã xác định.",
+      "role": "sales"
+    },
+    {
+      "id": "sales-05",
+      "version": 1,
+      "title": "Xử lý băn khoăn",
+      "skill": "Hiểu khách hàng",
+      "outcome": "Làm rõ nguyên nhân băn khoăn và trả lời có căn cứ.",
+      "question": "Khách hàng nói giải pháp quá đắt.",
+      "options": [
+        "Tranh luận rằng khách đánh giá sai.",
+        "Hỏi tiêu chí so sánh và làm rõ giá trị phù hợp.",
+        "Tự ý hứa ưu đãi ngoài chính sách."
+      ],
+      "answer": 1,
+      "lesson": "Làm rõ nguyên nhân băn khoăn và trả lời có căn cứ. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Hỏi tiêu chí so sánh và làm rõ giá trị phù hợp. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Đoạn hội thoại giả lập xử lý một băn khoăn về giá.",
+      "role": "sales"
+    },
+    {
+      "id": "sales-06",
+      "version": 1,
+      "title": "Đàm phán phạm vi",
+      "skill": "Trình bày giá trị",
+      "outcome": "Thống nhất phạm vi và các cam kết trong thẩm quyền.",
+      "question": "Khách yêu cầu điều kiện vượt quyền quyết định.",
+      "options": [
+        "Tự ký mọi cam kết để chốt nhanh.",
+        "Ghi nhận yêu cầu và xin phê duyệt đúng thẩm quyền.",
+        "Xóa yêu cầu khỏi biên bản."
+      ],
+      "answer": 1,
+      "lesson": "Thống nhất phạm vi và các cam kết trong thẩm quyền. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Ghi nhận yêu cầu và xin phê duyệt đúng thẩm quyền. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Biên bản đàm phán gồm phạm vi, điểm cần phê duyệt và bước tiếp theo.",
+      "role": "sales"
+    },
+    {
+      "id": "sales-07",
+      "version": 1,
+      "title": "Dự báo có căn cứ",
+      "skill": "Quản lý cơ hội",
+      "outcome": "Dự báo từ dữ liệu giai đoạn và bằng chứng của khách hàng.",
+      "question": "Cơ hội lớn chưa có xác nhận ngân sách.",
+      "options": [
+        "Ghi chắc chắn đạt để báo cáo đẹp.",
+        "Thể hiện giả định, rủi ro và độ chắc chắn trong dự báo.",
+        "Bỏ qua mọi cơ hội lớn."
+      ],
+      "answer": 1,
+      "lesson": "Dự báo từ dữ liệu giai đoạn và bằng chứng của khách hàng. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Thể hiện giả định, rủi ro và độ chắc chắn trong dự báo. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Bản dự báo mẫu với căn cứ và rủi ro cho 3 cơ hội.",
+      "role": "sales"
+    },
+    {
+      "id": "sales-08",
+      "version": 1,
+      "title": "Bàn giao và chăm sóc",
+      "skill": "Hiểu khách hàng",
+      "outcome": "Bàn giao cam kết và theo dõi trải nghiệm sau khi thống nhất.",
+      "question": "Bộ phận triển khai chưa biết một cam kết đã thống nhất.",
+      "options": [
+        "Để khách tự giải thích lại cho từng bộ phận.",
+        "Đối chiếu biên bản và bàn giao rõ người phụ trách.",
+        "Cho rằng bán xong là hết trách nhiệm."
+      ],
+      "answer": 1,
+      "lesson": "Bàn giao cam kết và theo dõi trải nghiệm sau khi thống nhất. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Đối chiếu biên bản và bàn giao rõ người phụ trách. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Checklist bàn giao có cam kết, đầu mối và thời hạn.",
+      "role": "sales"
+    },
+    {
+      "id": "sales-09",
+      "version": 1,
+      "title": "Dự án bán hàng tổng hợp",
+      "skill": "Quản lý cơ hội",
+      "outcome": "Thực hiện chu trình từ khám phá nhu cầu đến kế hoạch bàn giao.",
+      "question": "Đề xuất cuối chưa khớp nhu cầu đã ghi nhận.",
+      "options": [
+        "Bỏ bản ghi nhu cầu ban đầu.",
+        "Rà soát và sửa đề xuất trước khi xin xác nhận.",
+        "Giữ nguyên để kịp báo cáo."
+      ],
+      "answer": 1,
+      "lesson": "Thực hiện chu trình từ khám phá nhu cầu đến kế hoạch bàn giao. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Rà soát và sửa đề xuất trước khi xin xác nhận. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Hồ sơ cơ hội giả lập đầy đủ và một kế hoạch phát triển cá nhân.",
+      "role": "sales"
+    },
+    {
+      "id": "service-01",
+      "version": 1,
+      "title": "Lắng nghe và thấu hiểu",
+      "skill": "Lắng nghe",
+      "outcome": "Diễn giải đúng vấn đề và cảm xúc trước khi xử lý.",
+      "question": "Khách hàng đang bức xúc và nói dài.",
+      "options": [
+        "Ngắt lời ngay để tiết kiệm thời gian.",
+        "Lắng nghe, tóm tắt và xác nhận điều cần giải quyết.",
+        "Hứa giải quyết tất cả khi chưa kiểm tra."
+      ],
+      "answer": 1,
+      "lesson": "Diễn giải đúng vấn đề và cảm xúc trước khi xử lý. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Lắng nghe, tóm tắt và xác nhận điều cần giải quyết. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Hội thoại giả lập có bước tóm tắt và xác nhận vấn đề.",
+      "role": "service"
+    },
+    {
+      "id": "service-02",
+      "version": 1,
+      "title": "Tiếp nhận yêu cầu",
+      "skill": "Giải quyết vấn đề",
+      "outcome": "Ghi đủ dữ kiện và phân loại mức ưu tiên theo quy tắc.",
+      "question": "Một yêu cầu ảnh hưởng nhiều người nhưng mô tả còn thiếu.",
+      "options": [
+        "Đóng yêu cầu vì thiếu thông tin.",
+        "Hỏi thông tin cần thiết và phân loại theo mức ảnh hưởng.",
+        "Chọn ưu tiên thấp theo cảm tính."
+      ],
+      "answer": 1,
+      "lesson": "Ghi đủ dữ kiện và phân loại mức ưu tiên theo quy tắc. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Hỏi thông tin cần thiết và phân loại theo mức ảnh hưởng. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Phiếu yêu cầu giả lập có phân loại và thông tin bổ sung.",
+      "role": "service"
+    },
+    {
+      "id": "service-03",
+      "version": 1,
+      "title": "Tra cứu và hướng dẫn",
+      "skill": "Giải quyết vấn đề",
+      "outcome": "Dùng nguồn kiến thức đúng phiên bản để hướng dẫn.",
+      "question": "Có hai hướng dẫn khác nhau cho cùng vấn đề.",
+      "options": [
+        "Chọn hướng dẫn dễ làm nhất.",
+        "Kiểm tra phiên bản và xác nhận nguồn đang có hiệu lực.",
+        "Tự nghĩ cách mới mà không kiểm tra."
+      ],
+      "answer": 1,
+      "lesson": "Dùng nguồn kiến thức đúng phiên bản để hướng dẫn. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Kiểm tra phiên bản và xác nhận nguồn đang có hiệu lực. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Bản hướng dẫn ngắn có nguồn và bước kiểm tra kết quả.",
+      "role": "service"
+    },
+    {
+      "id": "service-04",
+      "version": 1,
+      "title": "Giao tiếp đa kênh",
+      "skill": "Lắng nghe",
+      "outcome": "Điều chỉnh cách viết và đảm bảo thông tin nhất quán.",
+      "question": "Khách chuyển từ chat sang email.",
+      "options": [
+        "Yêu cầu khách kể lại từ đầu.",
+        "Tóm tắt lịch sử và duy trì thông tin thống nhất.",
+        "Gửi toàn bộ ghi chú nội bộ cho khách."
+      ],
+      "answer": 1,
+      "lesson": "Điều chỉnh cách viết và đảm bảo thông tin nhất quán. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Tóm tắt lịch sử và duy trì thông tin thống nhất. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Email trả lời rõ vấn đề, hướng xử lý và bước tiếp theo.",
+      "role": "service"
+    },
+    {
+      "id": "service-05",
+      "version": 1,
+      "title": "Xử lý khiếu nại",
+      "skill": "Giải quyết vấn đề",
+      "outcome": "Phân biệt phản hồi, khiếu nại và thẩm quyền giải quyết.",
+      "question": "Khách đề nghị bồi hoàn ngoài chính sách.",
+      "options": [
+        "Tự ý hứa bồi hoàn.",
+        "Ghi nhận đầy đủ và chuyển người có thẩm quyền.",
+        "Bỏ qua vì yêu cầu khó."
+      ],
+      "answer": 1,
+      "lesson": "Phân biệt phản hồi, khiếu nại và thẩm quyền giải quyết. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Ghi nhận đầy đủ và chuyển người có thẩm quyền. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Biên bản khiếu nại có bằng chứng và hướng chuyển cấp.",
+      "role": "service"
+    },
+    {
+      "id": "service-06",
+      "version": 1,
+      "title": "Chuyển cấp có trách nhiệm",
+      "skill": "Chất lượng dịch vụ",
+      "outcome": "Bàn giao đủ thông tin và theo dõi đến khi có phản hồi.",
+      "question": "Vấn đề cần bộ phận kỹ thuật xử lý.",
+      "options": [
+        "Chuyển yêu cầu rồi ngừng theo dõi.",
+        "Bàn giao có bối cảnh và hẹn thời điểm cập nhật phù hợp.",
+        "Hứa thời gian sửa chưa được xác nhận."
+      ],
+      "answer": 1,
+      "lesson": "Bàn giao đủ thông tin và theo dõi đến khi có phản hồi. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Bàn giao có bối cảnh và hẹn thời điểm cập nhật phù hợp. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Phiếu chuyển cấp có đầu mối và lịch cập nhật.",
+      "role": "service"
+    },
+    {
+      "id": "service-07",
+      "version": 1,
+      "title": "Chất lượng và thời hạn",
+      "skill": "Chất lượng dịch vụ",
+      "outcome": "Ưu tiên việc dựa trên tác động và thời hạn đã thống nhất.",
+      "question": "Hai yêu cầu cùng gần hết hạn.",
+      "options": [
+        "Chọn ngẫu nhiên một yêu cầu.",
+        "Đánh giá tác động và chủ động phối hợp xử lý.",
+        "Đóng tạm để tránh quá hạn."
+      ],
+      "answer": 1,
+      "lesson": "Ưu tiên việc dựa trên tác động và thời hạn đã thống nhất. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Đánh giá tác động và chủ động phối hợp xử lý. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Kế hoạch xử lý hàng đợi mẫu có lý do ưu tiên.",
+      "role": "service"
+    },
+    {
+      "id": "service-08",
+      "version": 1,
+      "title": "Phản hồi để cải tiến",
+      "skill": "Chất lượng dịch vụ",
+      "outcome": "Tổng hợp vấn đề lặp lại thành đề xuất có bằng chứng.",
+      "question": "Nhiều khách hỏi cùng một bước khó hiểu.",
+      "options": [
+        "Chỉ trả lời từng khách mà không ghi nhận.",
+        "Ghi nhận mẫu vấn đề và đề xuất sửa hướng dẫn.",
+        "Quy trách nhiệm cho khách."
+      ],
+      "answer": 1,
+      "lesson": "Tổng hợp vấn đề lặp lại thành đề xuất có bằng chứng. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Ghi nhận mẫu vấn đề và đề xuất sửa hướng dẫn. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Đề xuất cải tiến dựa trên 5 tình huống giả lập.",
+      "role": "service"
+    },
+    {
+      "id": "service-09",
+      "version": 1,
+      "title": "Ca dịch vụ tổng hợp",
+      "skill": "Lắng nghe",
+      "outcome": "Giải quyết một ca từ tiếp nhận đến xác nhận kết quả.",
+      "question": "Khách vẫn chưa làm được dù đã nhận hướng dẫn.",
+      "options": [
+        "Đóng ca vì đã gửi hướng dẫn.",
+        "Kiểm tra bước vướng và xác nhận kết quả sau hỗ trợ.",
+        "Gửi lại y nguyên mà không hỏi thêm."
+      ],
+      "answer": 1,
+      "lesson": "Giải quyết một ca từ tiếp nhận đến xác nhận kết quả. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Kiểm tra bước vướng và xác nhận kết quả sau hỗ trợ. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Hồ sơ ca giả lập có phản hồi và kế hoạch phát triển.",
+      "role": "service"
+    },
+    {
+      "id": "operations-01",
+      "version": 1,
+      "title": "Thực hiện quy trình",
+      "skill": "Chuẩn quy trình",
+      "outcome": "Xác định đầu vào, bước xử lý và tiêu chuẩn đầu ra.",
+      "question": "Đầu vào của một công việc chưa đầy đủ.",
+      "options": [
+        "Bỏ qua bước kiểm tra.",
+        "Kiểm tra điều kiện và bổ sung trước khi xử lý.",
+        "Ghi đã hoàn tất để kịp chỉ tiêu."
+      ],
+      "answer": 1,
+      "lesson": "Xác định đầu vào, bước xử lý và tiêu chuẩn đầu ra. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Kiểm tra điều kiện và bổ sung trước khi xử lý. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Sơ đồ một quy trình với đầu vào và đầu ra rõ.",
+      "role": "operations"
+    },
+    {
+      "id": "operations-02",
+      "version": 1,
+      "title": "An toàn trong công việc",
+      "skill": "Chuẩn quy trình",
+      "outcome": "Nhận diện rủi ro và xử lý theo hướng dẫn doanh nghiệp.",
+      "question": "Phát hiện điều kiện làm việc có thể không an toàn.",
+      "options": [
+        "Tiếp tục để tránh chậm tiến độ.",
+        "Dừng bước có rủi ro và báo đúng đầu mối.",
+        "Chờ người khác tự nhận ra."
+      ],
+      "answer": 1,
+      "lesson": "Nhận diện rủi ro và xử lý theo hướng dẫn doanh nghiệp. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Dừng bước có rủi ro và báo đúng đầu mối. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Checklist nhận diện và báo cáo rủi ro trong tình huống giả.",
+      "role": "operations"
+    },
+    {
+      "id": "operations-03",
+      "version": 1,
+      "title": "Kiểm soát chất lượng",
+      "skill": "Kiểm soát chất lượng",
+      "outcome": "Đối chiếu kết quả với tiêu chí và ghi lỗi cụ thể.",
+      "question": "Sản phẩm đầu ra thiếu một tiêu chí kiểm tra.",
+      "options": [
+        "Bỏ tiêu chí vì ít khi có lỗi.",
+        "Ghi lỗi và xử lý trước khi bàn giao.",
+        "Đánh dấu đạt theo kinh nghiệm."
+      ],
+      "answer": 1,
+      "lesson": "Đối chiếu kết quả với tiêu chí và ghi lỗi cụ thể. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Ghi lỗi và xử lý trước khi bàn giao. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Phiếu kiểm chất lượng với bằng chứng và hướng khắc phục.",
+      "role": "operations"
+    },
+    {
+      "id": "operations-04",
+      "version": 1,
+      "title": "Quản lý thời gian",
+      "skill": "Chuẩn quy trình",
+      "outcome": "Sắp thứ tự công việc theo phụ thuộc và mức ảnh hưởng.",
+      "question": "Một công việc bị tắc vì chờ bước trước.",
+      "options": [
+        "Đẩy việc tiếp theo dù thiếu điều kiện.",
+        "Làm rõ phụ thuộc và điều chỉnh kế hoạch phối hợp.",
+        "Chờ im lặng đến hết ngày."
+      ],
+      "answer": 1,
+      "lesson": "Sắp thứ tự công việc theo phụ thuộc và mức ảnh hưởng. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Làm rõ phụ thuộc và điều chỉnh kế hoạch phối hợp. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Kế hoạch một ngày có ưu tiên và điểm phụ thuộc.",
+      "role": "operations"
+    },
+    {
+      "id": "operations-05",
+      "version": 1,
+      "title": "Dữ liệu vận hành",
+      "skill": "Kiểm soát chất lượng",
+      "outcome": "Ghi nhận dữ liệu đúng định nghĩa và kiểm tra sai lệch.",
+      "question": "Số liệu hai báo cáo khác nhau.",
+      "options": [
+        "Chọn số đẹp hơn.",
+        "Đối chiếu nguồn và định nghĩa trước khi kết luận.",
+        "Lấy trung bình mà không kiểm tra."
+      ],
+      "answer": 1,
+      "lesson": "Ghi nhận dữ liệu đúng định nghĩa và kiểm tra sai lệch. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Đối chiếu nguồn và định nghĩa trước khi kết luận. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Bảng dữ liệu giả có kiểm tra và giải thích sai lệch.",
+      "role": "operations"
+    },
+    {
+      "id": "operations-06",
+      "version": 1,
+      "title": "Giải quyết nguyên nhân",
+      "skill": "Cải tiến",
+      "outcome": "Phân biệt triệu chứng với nguyên nhân cần kiểm chứng.",
+      "question": "Một lỗi xuất hiện lại sau sửa tạm.",
+      "options": [
+        "Lặp lại cách sửa tạm mãi.",
+        "Tìm bằng chứng về nguyên nhân và thử biện pháp phù hợp.",
+        "Quy lỗi cho một người ngay."
+      ],
+      "answer": 1,
+      "lesson": "Phân biệt triệu chứng với nguyên nhân cần kiểm chứng. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Tìm bằng chứng về nguyên nhân và thử biện pháp phù hợp. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Phân tích nguyên nhân cho một lỗi giả lập và cách kiểm chứng.",
+      "role": "operations"
+    },
+    {
+      "id": "operations-07",
+      "version": 1,
+      "title": "Bàn giao liên bộ phận",
+      "skill": "Chuẩn quy trình",
+      "outcome": "Thống nhất tiêu chuẩn, người nhận và thời hạn bàn giao.",
+      "question": "Bộ phận nhận trả lại công việc vì thiếu dữ liệu.",
+      "options": [
+        "Đẩy lại mà không sửa.",
+        "Đối chiếu tiêu chuẩn bàn giao và bổ sung dữ liệu.",
+        "Đánh dấu bên nhận chịu trách nhiệm."
+      ],
+      "answer": 1,
+      "lesson": "Thống nhất tiêu chuẩn, người nhận và thời hạn bàn giao. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Đối chiếu tiêu chuẩn bàn giao và bổ sung dữ liệu. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Checklist bàn giao có tiêu chuẩn chấp nhận.",
+      "role": "operations"
+    },
+    {
+      "id": "operations-08",
+      "version": 1,
+      "title": "Cải tiến nhỏ",
+      "skill": "Cải tiến",
+      "outcome": "Thử một thay đổi nhỏ và đo trước sau.",
+      "question": "Có ý tưởng rút ngắn một bước xử lý.",
+      "options": [
+        "Bỏ bước ngay cho toàn hệ thống.",
+        "Thử có kiểm soát và theo dõi chất lượng cùng thời gian.",
+        "Chỉ đo tốc độ, bỏ chất lượng."
+      ],
+      "answer": 1,
+      "lesson": "Thử một thay đổi nhỏ và đo trước sau. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Thử có kiểm soát và theo dõi chất lượng cùng thời gian. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Đề xuất thử cải tiến với chỉ số và giới hạn phạm vi.",
+      "role": "operations"
+    },
+    {
+      "id": "operations-09",
+      "version": 1,
+      "title": "Dự án vận hành tổng hợp",
+      "skill": "Cải tiến",
+      "outcome": "Thực hiện và đánh giá cải tiến có bằng chứng.",
+      "question": "Thời gian giảm nhưng tỷ lệ lỗi tăng.",
+      "options": [
+        "Mở rộng ngay vì nhanh hơn.",
+        "Rà soát đánh đổi và điều chỉnh trước khi mở rộng.",
+        "Ẩn số liệu lỗi tăng."
+      ],
+      "answer": 1,
+      "lesson": "Thực hiện và đánh giá cải tiến có bằng chứng. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Rà soát đánh đổi và điều chỉnh trước khi mở rộng. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Hồ sơ cải tiến giả lập gồm kết quả và kế hoạch tiếp theo.",
+      "role": "operations"
+    },
+    {
+      "id": "hr-01",
+      "version": 1,
+      "title": "Làm rõ nhu cầu tuyển dụng",
+      "skill": "Tuyển dụng",
+      "outcome": "Xác nhận nhiệm vụ và tiêu chí đầu ra của vị trí.",
+      "question": "Quản lý đề nghị tuyển gấp nhưng chưa rõ công việc.",
+      "options": [
+        "Sao chép mô tả bất kỳ trên mạng.",
+        "Làm rõ nhiệm vụ và tiêu chí trước khi đăng tuyển.",
+        "Đăng vị trí với mọi kỹ năng có thể có."
+      ],
+      "answer": 1,
+      "lesson": "Xác nhận nhiệm vụ và tiêu chí đầu ra của vị trí. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Làm rõ nhiệm vụ và tiêu chí trước khi đăng tuyển. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Phiếu nhu cầu tuyển dụng và tiêu chí theo nhiệm vụ.",
+      "role": "hr"
+    },
+    {
+      "id": "hr-02",
+      "version": 1,
+      "title": "Phỏng vấn có cấu trúc",
+      "skill": "Tuyển dụng",
+      "outcome": "Dùng tiêu chí và câu hỏi nhất quán để thu thập bằng chứng.",
+      "question": "Hai ứng viên được hỏi những nội dung rất khác nhau.",
+      "options": [
+        "Chỉ dựa vào cảm tình.",
+        "Dùng bộ câu hỏi và tiêu chí chung cho cùng vị trí.",
+        "Chọn người nói chuyện hợp nhất."
+      ],
+      "answer": 1,
+      "lesson": "Dùng tiêu chí và câu hỏi nhất quán để thu thập bằng chứng. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Dùng bộ câu hỏi và tiêu chí chung cho cùng vị trí. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Bộ câu hỏi và phiếu ghi bằng chứng cho một vị trí giả.",
+      "role": "hr"
+    },
+    {
+      "id": "hr-03",
+      "version": 1,
+      "title": "Hội nhập nhân viên",
+      "skill": "Trải nghiệm nhân viên",
+      "outcome": "Lập kế hoạch hội nhập gắn công việc và người hỗ trợ.",
+      "question": "Nhân viên mới chưa biết hỏi ai khi gặp vướng mắc.",
+      "options": [
+        "Chỉ gửi một tập tài liệu dài.",
+        "Chỉ rõ đầu mối, kỳ vọng và lịch trao đổi.",
+        "Đợi đến cuối thử việc mới hỏi."
+      ],
+      "answer": 1,
+      "lesson": "Lập kế hoạch hội nhập gắn công việc và người hỗ trợ. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Chỉ rõ đầu mối, kỳ vọng và lịch trao đổi. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Kế hoạch hội nhập có đầu mối và mốc kiểm tra.",
+      "role": "hr"
+    },
+    {
+      "id": "hr-04",
+      "version": 1,
+      "title": "Vận hành hồ sơ",
+      "skill": "Dữ liệu nhân sự",
+      "outcome": "Kiểm tra dữ liệu và hạn chế quyền truy cập đúng mục đích.",
+      "question": "Có người đề nghị nhận toàn bộ hồ sơ nhân sự.",
+      "options": [
+        "Gửi toàn bộ vì là người nội bộ.",
+        "Kiểm tra mục đích và phạm vi quyền truy cập.",
+        "Lưu sang tài khoản cá nhân cho tiện."
+      ],
+      "answer": 1,
+      "lesson": "Kiểm tra dữ liệu và hạn chế quyền truy cập đúng mục đích. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Kiểm tra mục đích và phạm vi quyền truy cập. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Checklist xử lý hồ sơ giả với quyền truy cập phù hợp.",
+      "role": "hr"
+    },
+    {
+      "id": "hr-05",
+      "version": 1,
+      "title": "Giao tiếp chính sách",
+      "skill": "Trải nghiệm nhân viên",
+      "outcome": "Giải thích chính sách bằng nguồn đang có hiệu lực.",
+      "question": "Nhân viên hỏi một trường hợp chưa rõ trong chính sách.",
+      "options": [
+        "Tự đưa cam kết thay cho công ty.",
+        "Kiểm tra tài liệu và chuyển đúng đầu mối nếu cần.",
+        "Dùng quy định cũ theo trí nhớ."
+      ],
+      "answer": 1,
+      "lesson": "Giải thích chính sách bằng nguồn đang có hiệu lực. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Kiểm tra tài liệu và chuyển đúng đầu mối nếu cần. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Email giải đáp có nguồn và điểm cần xác nhận.",
+      "role": "hr"
+    },
+    {
+      "id": "hr-06",
+      "version": 1,
+      "title": "Dữ liệu và báo cáo",
+      "skill": "Dữ liệu nhân sự",
+      "outcome": "Đối chiếu định nghĩa chỉ số trước khi so sánh.",
+      "question": "Hai phòng ban dùng cách tính nghỉ việc khác nhau.",
+      "options": [
+        "So sánh trực tiếp hai tỷ lệ.",
+        "Thống nhất định nghĩa và kỳ dữ liệu trước phân tích.",
+        "Bỏ phòng ban có tỷ lệ xấu."
+      ],
+      "answer": 1,
+      "lesson": "Đối chiếu định nghĩa chỉ số trước khi so sánh. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Thống nhất định nghĩa và kỳ dữ liệu trước phân tích. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Báo cáo dữ liệu giả nêu rõ mẫu số và giới hạn.",
+      "role": "hr"
+    },
+    {
+      "id": "hr-07",
+      "version": 1,
+      "title": "Hỗ trợ quản lý",
+      "skill": "Trải nghiệm nhân viên",
+      "outcome": "Làm rõ vấn đề và đưa lựa chọn trong phạm vi trách nhiệm.",
+      "question": "Quản lý muốn xử lý một vấn đề nhân viên chỉ qua tin đồn.",
+      "options": [
+        "Xử lý ngay theo yêu cầu.",
+        "Thu thập thông tin và hướng dẫn đúng quy trình.",
+        "Chia sẻ tin đồn cho cả nhóm."
+      ],
+      "answer": 1,
+      "lesson": "Làm rõ vấn đề và đưa lựa chọn trong phạm vi trách nhiệm. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Thu thập thông tin và hướng dẫn đúng quy trình. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Biên bản trao đổi giả lập có thông tin cần xác minh.",
+      "role": "hr"
+    },
+    {
+      "id": "hr-08",
+      "version": 1,
+      "title": "Thiết kế trải nghiệm",
+      "skill": "Trải nghiệm nhân viên",
+      "outcome": "Dùng phản hồi để đề xuất cải thiện một điểm chạm.",
+      "question": "Nhân viên mới thường phàn nàn cùng một bước.",
+      "options": [
+        "Quy kết nhân viên thiếu chủ động.",
+        "Tìm nguyên nhân và thử cải thiện ở nhóm nhỏ.",
+        "Thay toàn bộ quy trình ngay."
+      ],
+      "answer": 1,
+      "lesson": "Dùng phản hồi để đề xuất cải thiện một điểm chạm. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Tìm nguyên nhân và thử cải thiện ở nhóm nhỏ. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Đề xuất cải thiện điểm chạm dựa trên phản hồi giả.",
+      "role": "hr"
+    },
+    {
+      "id": "hr-09",
+      "version": 1,
+      "title": "Dự án nhân sự tổng hợp",
+      "skill": "Dữ liệu nhân sự",
+      "outcome": "Đề xuất sáng kiến nhân sự có mục tiêu và cách đo.",
+      "question": "Một sáng kiến có hoạt động nhiều nhưng chưa rõ kết quả.",
+      "options": [
+        "Chỉ đếm số email đã gửi.",
+        "Làm rõ thay đổi mong đợi và chỉ số phù hợp.",
+        "Giữ mục tiêu mơ hồ để dễ báo cáo."
+      ],
+      "answer": 1,
+      "lesson": "Đề xuất sáng kiến nhân sự có mục tiêu và cách đo. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Làm rõ thay đổi mong đợi và chỉ số phù hợp. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Đề án nhỏ với vấn đề, đối tượng, cách thử và cách đo.",
+      "role": "hr"
+    },
+    {
+      "id": "manager-01",
+      "version": 1,
+      "title": "Chuyển vai trò quản lý",
+      "skill": "Giao việc",
+      "outcome": "Làm rõ trách nhiệm của quản lý và kỳ vọng với nhóm.",
+      "question": "Bạn vừa quản lý những người từng là đồng nghiệp.",
+      "options": [
+        "Giữ mọi quyết định như trước mà không trao đổi.",
+        "Thống nhất kỳ vọng và nguyên tắc làm việc với nhóm.",
+        "Thể hiện quyền lực bằng thay đổi đột ngột."
+      ],
+      "answer": 1,
+      "lesson": "Làm rõ trách nhiệm của quản lý và kỳ vọng với nhóm. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Thống nhất kỳ vọng và nguyên tắc làm việc với nhóm. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Bản thỏa thuận làm việc với nhóm giả lập.",
+      "role": "manager"
+    },
+    {
+      "id": "manager-02",
+      "version": 1,
+      "title": "Giao việc rõ ràng",
+      "skill": "Giao việc",
+      "outcome": "Giao kết quả, phạm vi quyết định và điểm kiểm tra.",
+      "question": "Nhân viên nhận việc nhưng hiểu khác đầu ra.",
+      "options": [
+        "Cho rằng người nhận tự hiểu.",
+        "Làm rõ tiêu chí và yêu cầu diễn giải lại kỳ vọng.",
+        "Chỉ tăng thời hạn mà không làm rõ."
+      ],
+      "answer": 1,
+      "lesson": "Giao kết quả, phạm vi quyết định và điểm kiểm tra. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Làm rõ tiêu chí và yêu cầu diễn giải lại kỳ vọng. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Phiếu giao việc với đầu ra, nguồn lực và điểm kiểm tra.",
+      "role": "manager"
+    },
+    {
+      "id": "manager-03",
+      "version": 1,
+      "title": "Trao đổi một đối một",
+      "skill": "Huấn luyện",
+      "outcome": "Lắng nghe trở ngại và chốt hành động phát triển.",
+      "question": "Nhân viên ít nói về khó khăn trong cuộc họp nhóm.",
+      "options": [
+        "Yêu cầu giải thích trước toàn nhóm.",
+        "Tạo buổi trao đổi riêng và hỏi câu hỏi mở.",
+        "Bỏ qua vì chưa có khiếu nại."
+      ],
+      "answer": 1,
+      "lesson": "Lắng nghe trở ngại và chốt hành động phát triển. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Tạo buổi trao đổi riêng và hỏi câu hỏi mở. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Kịch bản trao đổi một đối một và hành động đã thống nhất.",
+      "role": "manager"
+    },
+    {
+      "id": "manager-04",
+      "version": 1,
+      "title": "Phản hồi có ích",
+      "skill": "Huấn luyện",
+      "outcome": "Nêu hành vi quan sát được và tác động trước đề nghị sửa.",
+      "question": "Một thành viên nhiều lần bàn giao thiếu thông tin.",
+      "options": [
+        "Gắn nhãn người đó thiếu trách nhiệm.",
+        "Dùng ví dụ cụ thể và thống nhất cách cải thiện.",
+        "Chỉ nói cần cố gắng hơn."
+      ],
+      "answer": 1,
+      "lesson": "Nêu hành vi quan sát được và tác động trước đề nghị sửa. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Dùng ví dụ cụ thể và thống nhất cách cải thiện. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Hội thoại phản hồi có hành vi, tác động và bước sửa.",
+      "role": "manager"
+    },
+    {
+      "id": "manager-05",
+      "version": 1,
+      "title": "Theo dõi hiệu suất",
+      "skill": "Quản trị hiệu suất",
+      "outcome": "Phân biệt kết quả, hành vi và điều kiện thực hiện.",
+      "question": "Kết quả giảm khi nguồn lực có thay đổi.",
+      "options": [
+        "Quy ngay nguyên nhân do thiếu nỗ lực.",
+        "Kiểm tra bối cảnh cùng dữ liệu trước đánh giá.",
+        "Chỉ nhìn một chỉ số đơn lẻ."
+      ],
+      "answer": 1,
+      "lesson": "Phân biệt kết quả, hành vi và điều kiện thực hiện. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Kiểm tra bối cảnh cùng dữ liệu trước đánh giá. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Bản rà soát hiệu suất giả có bối cảnh và hành động.",
+      "role": "manager"
+    },
+    {
+      "id": "manager-06",
+      "version": 1,
+      "title": "Huấn luyện tại việc",
+      "skill": "Huấn luyện",
+      "outcome": "Hỏi để người học phân tích trước khi đưa hướng dẫn.",
+      "question": "Nhân viên hỏi cách xử lý một vấn đề quen thuộc.",
+      "options": [
+        "Luôn làm thay cho nhanh.",
+        "Mời phân tích lựa chọn rồi bổ sung hỗ trợ cần thiết.",
+        "Từ chối giúp vì đã học rồi."
+      ],
+      "answer": 1,
+      "lesson": "Hỏi để người học phân tích trước khi đưa hướng dẫn. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Mời phân tích lựa chọn rồi bổ sung hỗ trợ cần thiết. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Phiên huấn luyện 5 phút với mục tiêu và bước thực hành.",
+      "role": "manager"
+    },
+    {
+      "id": "manager-07",
+      "version": 1,
+      "title": "Phối hợp và xung đột",
+      "skill": "Giao việc",
+      "outcome": "Làm rõ lợi ích và dữ kiện trước khi thống nhất cách làm.",
+      "question": "Hai thành viên bất đồng về ưu tiên.",
+      "options": [
+        "Chọn bên thân với mình.",
+        "Làm rõ mục tiêu, ràng buộc và tiêu chí chung.",
+        "Yêu cầu dừng tranh luận mà không giải quyết."
+      ],
+      "answer": 1,
+      "lesson": "Làm rõ lợi ích và dữ kiện trước khi thống nhất cách làm. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Làm rõ mục tiêu, ràng buộc và tiêu chí chung. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Biên bản xử lý bất đồng có tiêu chí và thỏa thuận.",
+      "role": "manager"
+    },
+    {
+      "id": "manager-08",
+      "version": 1,
+      "title": "Dẫn dắt thay đổi",
+      "skill": "Quản trị hiệu suất",
+      "outcome": "Giải thích lý do và hỗ trợ thử cách làm mới.",
+      "question": "Nhóm lo lắng về một quy trình mới.",
+      "options": [
+        "Chỉ nhắc phải tuân theo.",
+        "Lắng nghe lo ngại và thử có hỗ trợ, phản hồi rõ.",
+        "Hứa không có khó khăn nào."
+      ],
+      "answer": 1,
+      "lesson": "Giải thích lý do và hỗ trợ thử cách làm mới. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Lắng nghe lo ngại và thử có hỗ trợ, phản hồi rõ. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Kế hoạch thử thay đổi với hỗ trợ và cách lấy phản hồi.",
+      "role": "manager"
+    },
+    {
+      "id": "manager-09",
+      "version": 1,
+      "title": "Kế hoạch phát triển nhóm",
+      "skill": "Quản trị hiệu suất",
+      "outcome": "Ưu tiên năng lực nhóm dựa trên nhiệm vụ sắp tới.",
+      "question": "Có nhiều nhu cầu học nhưng thời gian hạn chế.",
+      "options": [
+        "Chọn khóa được quảng cáo nhiều nhất.",
+        "Ưu tiên theo nhiệm vụ và khoảng cách năng lực.",
+        "Giao tất cả khóa cho mọi người."
+      ],
+      "answer": 1,
+      "lesson": "Ưu tiên năng lực nhóm dựa trên nhiệm vụ sắp tới. Hãy dùng thông tin và quy trình đang được doanh nghiệp phê duyệt. Khi chưa rõ, hỏi đúng đầu mối thay vì tự cam kết. Sau bài học, thử diễn giải cách áp dụng trong công việc của bạn.",
+      "feedback": "Ưu tiên theo nhiệm vụ và khoảng cách năng lực. Cần làm rõ dữ kiện và phạm vi trách nhiệm trước hành động.",
+      "practice": "Kế hoạch phát triển nhóm có ưu tiên và minh chứng đầu ra.",
+      "role": "manager"
+    }
+  ],
+  "mandatory": [
+    "core-culture",
+    "core-security",
+    "core-collaboration"
+  ]
+}

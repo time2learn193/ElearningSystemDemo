@@ -1,0 +1,17 @@
+{
+  "mode": "Built-in image generation",
+  "prompts": [
+    [
+      "hero",
+      "Use case: illustration-story. Create a production web illustration asset for adult adviser learning platform Learn For Life, matching the flat editorial art in reference image. Crisp black ink outlines, simple solid colors, natural adult proportions and expressive minimal faces. Palette only lavender #E1D7FF, periwinkle #9B88E8, pastel pink #FFD4EB, pale apricot #FFE4B5, small lime #D8F26B, black and ivory. NO burgundy, NO photorealism, no 3D rendering or gradient shading. Transparent background, no text, no logo, no watermark. Cohesive uncluttered 2D vector-like shapes. Entire scene visible with transparent padding. One confident mature Vietnamese woman adviser with shoulder-length wavy black hair and subtle gray streak, lavender blazer, white blouse, holding an apricot folder, standing waist-up behind a simple flat open book. Beside her a few paper steps leading to a small shield with an umbrella emblem. Vertical composition, character occupying right two-thirds, book across bottom, suitable for a tall dashboard hero card. Friendly calm professional adult, not a child or mascot."
+    ],
+    [
+      "product",
+      "Use case: illustration-story. Create a production web illustration asset for adult adviser learning platform Learn For Life, matching the flat editorial art in reference image. Crisp black ink outlines, simple solid colors, natural adult proportions and expressive minimal faces. Palette only lavender #E1D7FF, periwinkle #9B88E8, pastel pink #FFD4EB, pale apricot #FFE4B5, small lime #D8F26B, black and ivory. NO burgundy, NO photorealism, no 3D rendering or gradient shading. Transparent background, no text, no logo, no watermark. Cohesive uncluttered 2D vector-like shapes. Entire scene visible with transparent padding. Small wide scene: a mature Vietnamese woman adviser in lavender jacket sitting at a laptop, reading a document, small outlined shield symbol nearby. Simple bold silhouette, few elements, course thumbnail scene, landscape 3:2 composition."
+    ],
+    [
+      "listening",
+      "Use case: illustration-story. Create a production web illustration asset for adult adviser learning platform Learn For Life, matching the flat editorial art in reference image. Crisp black ink outlines, simple solid colors, natural adult proportions and expressive minimal faces. Palette only lavender #E1D7FF, periwinkle #9B88E8, pastel pink #FFD4EB, pale apricot #FFE4B5, small lime #D8F26B, black and ivory. NO burgundy, NO photorealism, no 3D rendering or gradient shading. Transparent background, no text, no logo, no watermark. Cohesive uncluttered 2D vector-like shapes. Entire scene visible with transparent padding. Small wide scene: two mature Vietnamese adult professionals, woman in lavender blazer and man in ivory shirt, sitting in a calm face-to-face conversation, one open-hand gesture, two simple speech bubbles above. Simple bold silhouettes, few elements, course thumbnail scene, landscape 3:2 composition."
+    ]
+  ]
+}
